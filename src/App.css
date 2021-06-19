@@ -29,9 +29,7 @@ body{
 	align-items: center;
 }
 
-.info{
   
-}
 
 .box::after{
   content:" ";
